@@ -10,8 +10,8 @@ Time spent: **3** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I faced challenge in connecting the button to the logic. But refering to the slack channel and the instructions, I was able to correct it.
 
 ## License
 
