@@ -41,6 +41,10 @@ Apps that I like and its features:
    - Live location sharing which helps users to share their real-time location with contacts or in group chats for a specified period, aiding in meeting up or coordinating.
    - Notification Customization which lets users to customize notification settings for individual chats or groups, enabling them to prioritize important conversation.
    - With Status updates we can post text, photos, and videos that disappear after 24 hours, similar to stories on other social media platforms.
+  
+An app that I would like to build:
+
+I would like to build an app for donating and receiving old books. There are many people who like to give away books after reading or may be give away their child's school books after the class is over. By providing a centralised platform for such people, we can create a channel for them to give away the books to libraries or individuals. Even a person who needs a specific book, can put up a request on the app and any person who is willing to give it to him might contact that person. Also we can create an option for fundraising where people can collect money for a specific book to give away to the person in need. The logistics can be set up by the two parties.
 
 ## Notes
 
