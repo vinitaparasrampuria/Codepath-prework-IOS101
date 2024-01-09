@@ -27,6 +27,21 @@ Video link:
 
 ## App Brainstorming (Step 4)
 
+Apps that I like and its features:
+1. Google Maps:
+   - Street View which allows users to virtually explore streets at ground level.
+   - Real time traffic updates which helps users to avoid congestion and plan travel accordingly.
+   - Local business information to find about the area of interest like restaurants, cafes, etc and their time of operationm reviews, photos, etc.
+2. Discord:
+   - Can create both voice and text channels for flexibility.
+   - Screen sharing during video calls making it easy to collaborate.
+   - Customizable user profile by using avatars, status, etc.
+   - Has direct message feature which can be used to send private messages to individuals or groups.
+3. Watsapp:
+   - Live location sharing which helps users to share their real-time location with contacts or in group chats for a specified period, aiding in meeting up or coordinating.
+   - Notification Customization which lets users to customize notification settings for individual chats or groups, enabling them to prioritize important conversation.
+   - With Status updates we can post text, photos, and videos that disappear after 24 hours, similar to stories on other social media platforms.
+
 ## Notes
 
 I faced challenge in connecting the button to the logic. But refering to the slack channel and the instructions, I was able to correct it.
