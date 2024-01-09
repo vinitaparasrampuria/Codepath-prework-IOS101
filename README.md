@@ -2,7 +2,7 @@
 
 Submitted by: **Vinita Parasrampuria**
 
-**Name of your app** is an app that shows my name, university and ocuupation. It has a button to change the background color when clicked... [TODO] 
+**Name of your app** is an app that shows my name, university and ocuupation. It has a button to change the background color when clicked.
 
 Time spent: **3** hours spent in total
 
@@ -52,7 +52,7 @@ I faced challenge in connecting the button to the logic. But refering to the sla
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Vinita Parasrampuria
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
